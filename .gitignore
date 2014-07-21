@@ -3,7 +3,6 @@
 *.opensdf
 
 # 过滤文件夹
-Filter/Release
-Filter/Filter/Release
-KeyTest/Release
-KeyTest/KeyTest/Release
+VS2010Solution/Release
+VS2010Solution/Filter/Release
+VS2010Solution/KeyTest/Release
